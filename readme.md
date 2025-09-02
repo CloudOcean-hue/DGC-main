@@ -15,10 +15,10 @@ DGC is built upon three key components:
 1. **OF-SQAE**  
    A disentangled representation model that integrates orthogonal non-negative matrix factorization with soft quantization to obtain stable and interpretable semantic factors.
 
-2. **IAIQ (Information-Aware Information Quantification)**  
+2. **IAIQ**  
    A theoretical framework that quantifies sample informativeness in the latent space, enabling principled evaluation of data quality.
 
-3. **DGC (Disentangled Generalizable Construction)**  
+3. **DGC**  
    A coverage-driven greedy algorithm that selects representative subsets with high semantic coverage, ensuring that the constructed dataset effectively represents diverse modalities and variations.
 
 ---
